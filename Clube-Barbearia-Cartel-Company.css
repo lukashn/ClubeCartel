@@ -218,10 +218,6 @@
 
   .u-section-1 .u-image-1 {
     height: 106px;
-    width: 454px;
-    margin-top: 0;
-    margin-right: calc(((100% - 340px) / 2) + -64px);
-    margin-left: auto;
   }
 
   .u-section-1 .u-btn-1 {
@@ -233,56 +229,53 @@
 
   .u-section-1 .u-group-1 {
     width: 429px;
-    min-height: 338px;
+    min-height: 371px;
     margin-top: 33px;
-    margin-bottom: 33px;
+    margin-bottom: 0;
   }
 
   .u-section-1 .u-container-layout-1 {
-    padding-top: 0;
-    padding-left: 0;
-    padding-right: 0;
+    padding: 7px 0;
   }
 
   .u-section-1 .u-image-2 {
-    width: 175px;
-    height: 175px;
-    margin-top: 7px;
+    width: 152px;
+    height: 152px;
     margin-right: auto;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 0.875rem;
-    margin-top: -159px;
-    margin-right: 106px;
-    margin-left: 175px;
+    margin-top: -135px;
+    margin-right: 117px;
+    margin-left: 164px;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 0.875rem;
-    margin-top: 8px;
-    margin-right: 106px;
-    margin-left: 175px;
+    margin-top: 18px;
+    margin-right: 117px;
+    margin-left: 164px;
   }
 
   .u-section-1 .u-text-3 {
     font-size: 0.875rem;
-    margin-top: 12px;
-    margin-right: 106px;
-    margin-left: 175px;
+    margin-top: 9px;
+    margin-right: 117px;
+    margin-left: 164px;
   }
 
   .u-section-1 .u-text-4 {
     font-size: 0.875rem;
-    margin-top: -145px;
-    margin-right: 270px;
-    margin-left: 16px;
+    margin-top: -207px;
+    margin-right: 282px;
+    margin-left: 4px;
   }
 
   .u-section-1 .u-btn-2 {
     font-size: 0.625rem;
-    margin-top: 15px;
-    margin-left: 18px;
+    margin-top: 12px;
+    margin-left: 6px;
     padding: 17px 8px 18px;
   }
 } .u-section-2 {
@@ -457,15 +450,13 @@
 
   .u-section-2 .u-image-1 {
     height: 199px;
-    margin-top: -19px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    width: 340px;
+    margin-left: -12px;
   }
 
   .u-section-2 .u-list-1 {
     width: 315px;
-    margin: -34px auto 13px 0;
+    margin: -36px auto 54px 0;
   }
 
   .u-section-2 .u-repeater-1 {

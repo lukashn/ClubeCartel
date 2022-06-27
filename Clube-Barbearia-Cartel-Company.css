@@ -218,22 +218,20 @@
 
   .u-section-1 .u-image-1 {
     height: 106px;
-    width: 451px;
-    margin-right: calc(((100% - 340px) / 2) + -61px);
-    margin-left: auto;
+    margin-top: 0;
   }
 
   .u-section-1 .u-btn-1 {
     font-size: 0.625rem;
     margin-top: -75px;
     margin-right: calc(((100% - 340px) / 2) + 28px);
-    padding: 18px 16px 18px 15px;
+    padding: 13px 9px 15px;
   }
 
   .u-section-1 .u-group-1 {
     width: 429px;
     min-height: 371px;
-    margin-top: 33px;
+    margin-top: 41px;
     margin-bottom: 0;
   }
 

@@ -217,13 +217,16 @@
   }
 
   .u-section-1 .u-image-1 {
-    height: 106px;
+    height: 98px;
+    width: 451px;
     margin-top: 0;
+    margin-right: calc(((100% - 340px) / 2) + -61px);
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-1 {
     font-size: 0.625rem;
-    margin-top: -75px;
+    margin-top: -67px;
     margin-right: calc(((100% - 340px) / 2) + 28px);
     padding: 13px 9px 15px;
   }

@@ -50,7 +50,7 @@
   }
 
   .u-section-2 .u-image-1 {
-    margin-top: 68px;
+    margin-top: 29px;
   }
 }
 
@@ -163,9 +163,21 @@
   min-height: 500px;
 }
 
+.u-section-4 .u-image-1 {
+  width: 1227px;
+  height: 443px;
+  margin: 0 auto 57px 0;
+}
+
 @media (max-width: 1199px) {
    .u-section-4 {
     min-height: 396px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: auto;
+    height: auto;
+    margin: initial;
   }
 }
 

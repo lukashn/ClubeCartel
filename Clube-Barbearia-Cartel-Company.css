@@ -171,6 +171,13 @@
   height: 267px;
   margin-top: 0;
   margin-bottom: 47px;
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-image-1 {
+    height: 306px;
+    margin-bottom: 8px;
+  }
 }.u-section-5 .u-sheet-1 {
   min-height: 595px;
 }

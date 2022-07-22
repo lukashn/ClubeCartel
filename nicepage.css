@@ -38493,23 +38493,23 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 278px;
     height: 160px;
     margin-top: 16px;
-    margin-left: 16px;
+    margin-left: -14px;
   }
 
   .u-header .u-menu-1 {
     width: auto;
     margin-top: -116px;
-    margin-right: 54px;
+    margin-right: 63px;
     margin-bottom: 60px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-image-1 {
-    margin-left: 16px;
+    margin-left: -14px;
   }
 
   .u-header .u-menu-1 {
-    margin-right: 54px;
+    margin-right: 63px;
   }
 }
 

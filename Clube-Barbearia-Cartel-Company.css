@@ -13,6 +13,28 @@
   background-image: none;
   margin: 41px auto;
   padding: 26px 117px 27px 116px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 192px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 2.25rem;
+    margin-top: 34px;
+    margin-bottom: 34px;
+    padding: 33px 168px 34px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 137px;
+    padding-left: 136px;
+  }
 } .u-section-2 {
   background-image: none;
   min-height: 1655px;

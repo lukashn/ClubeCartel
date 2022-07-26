@@ -38505,18 +38505,19 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-header .u-image-1 {
-    margin-left: -14px;
+    width: 277px;
+    margin-top: 20px;
+    margin-left: auto;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -100px;
-    margin-right: 58px;
-    margin-bottom: 60px;
+    margin: -104px auto 60px 34px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-menu-1 {
-    margin-right: 58px;
+    margin-top: -104px;
+    margin-left: 34px;
   }
 }
 @media (max-width: 575px) {
